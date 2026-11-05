@@ -1,0 +1,509 @@
+place,zip,zone,avg_annual_extreme_min_f
+Abington,02351,6b,-5 to 0
+Accord,02018,6b,-5 to 0
+Acton,01718,6a,-10 to -5
+Acushnet,02743,7a,0 to 5
+Adams,01220,5b,-15 to -10
+Agawam,01001,6b,-5 to 0
+Allston,02134,6b,-5 to 0
+Amesbury,01913,6a,-10 to -5
+Amherst,01002,6a,-10 to -5
+Andover,01810,6b,-5 to 0
+Arlington,02474,6b,-5 to 0
+Arlington Heights,02475,6b,-5 to 0
+Ashburnham,01430,6a,-10 to -5
+Ashby,01431,6a,-10 to -5
+Ashfield,01330,5b,-15 to -10
+Ashland,01721,6b,-5 to 0
+Ashley Falls,01222,6a,-10 to -5
+Assonet,02702,7a,0 to 5
+Athol,01331,5b,-15 to -10
+Attleboro,02703,6b,-5 to 0
+Attleboro Falls,02763,6b,-5 to 0
+Auburn,01501,6a,-10 to -5
+Auburndale,02466,6b,-5 to 0
+Avon,02322,6b,-5 to 0
+Ayer,01432,6a,-10 to -5
+Babson Park,02457,6b,-5 to 0
+Baldwinville,01436,5b,-15 to -10
+Barnstable,02630,7a,0 to 5
+Barre,01005,6a,-10 to -5
+Becket,01223,6a,-10 to -5
+Bedford,01730,6b,-5 to 0
+Belchertown,01007,6a,-10 to -5
+Bellingham,02019,6b,-5 to 0
+Belmont,02478,6b,-5 to 0
+Berkley,02779,6b,-5 to 0
+Berkshire,01224,5b,-15 to -10
+Berlin,01503,6b,-5 to 0
+Bernardston,01337,5b,-15 to -10
+Beverly,01915,6b,-5 to 0
+Billerica,01821,6b,-5 to 0
+Blackstone,01504,6b,-5 to 0
+Blandford,01008,6a,-10 to -5
+Bolton,01740,6b,-5 to 0
+Bondsville,01009,6a,-10 to -5
+Boston,02212,7a,0 to 5
+Boxborough,01719,6a,-10 to -5
+Boxford,01921,6b,-5 to 0
+Boylston,01505,6a,-10 to -5
+Braintree,02184,6b,-5 to 0
+Brant Rock,02020,6b,-5 to 0
+Brewster,02631,7b,5 to 10
+Bridgewater,02324,6b,-5 to 0
+Brighton,02135,6b,-5 to 0
+Brimfield,01010,6a,-10 to -5
+Brockton,02301,6b,-5 to 0
+Brookfield,01506,6a,-10 to -5
+Brookline,02445,6b,-5 to 0
+Brookline Village,02447,6b,-5 to 0
+Bryantville,02327,6b,-5 to 0
+Buckland,01338,5b,-15 to -10
+Burlington,01803,6b,-5 to 0
+Buzzards Bay,02532,7a,0 to 5
+Byfield,01922,6b,-5 to 0
+Cambridge,02138,6b,-5 to 0
+Canton,02021,6b,-5 to 0
+Carlisle,01741,6b,-5 to 0
+Carver,02330,6b,-5 to 0
+Cataumet,02534,7a,0 to 5
+Centerville,02632,7a,0 to 5
+Charlemont,01339,5b,-15 to -10
+Charlestown,02129,7a,0 to 5
+Charlton,01507,6b,-5 to 0
+Charlton City,01508,6a,-10 to -5
+Charlton Depot,01509,6b,-5 to 0
+Chartley,02712,6b,-5 to 0
+Chatham,02633,7b,5 to 10
+Chelmsford,01824,6b,-5 to 0
+Chelsea,02150,7a,0 to 5
+Cherry Valley,01611,6b,-5 to 0
+Cheshire,01225,5b,-15 to -10
+Chester,01011,6a,-10 to -5
+Chesterfield,01012,6a,-10 to -5
+Chestnut Hill,02467,6b,-5 to 0
+Chicopee,01013,6a,-10 to -5
+Chilmark,02535,7b,5 to 10
+Clinton,01510,6a,-10 to -5
+Cohasset,02025,7a,0 to 5
+Colrain,01340,5b,-15 to -10
+Concord,01742,6b,-5 to 0
+Conway,01341,6a,-10 to -5
+Cotuit,02635,7a,0 to 5
+Cummaquid,02637,7a,0 to 5
+Cummington,01026,5b,-15 to -10
+Cuttyhunk,02713,7b,5 to 10
+Dalton,01226,5b,-15 to -10
+Danvers,01923,6b,-5 to 0
+Dartmouth,02714,7a,0 to 5
+Dedham,02026,6b,-5 to 0
+Deerfield,01342,6a,-10 to -5
+Dennis,02638,7b,5 to 10
+Dennis Port,02639,7b,5 to 10
+Devens,01434,6a,-10 to -5
+Dighton,02715,7a,0 to 5
+Dorchester,02121,6b,-5 to 0
+Dorchester Center,02124,6b,-5 to 0
+Douglas,01516,6b,-5 to 0
+Dover,02030,6b,-5 to 0
+Dracut,01826,6a,-10 to -5
+Drury,01343,5b,-15 to -10
+Dudley,01571,6b,-5 to 0
+Dunstable,01827,6a,-10 to -5
+Duxbury,02331,7a,0 to 5
+East Bridgewater,02333,6b,-5 to 0
+East Brookfield,01515,6a,-10 to -5
+East Dennis,02641,7b,5 to 10
+East Falmouth,02536,7a,0 to 5
+East Freetown,02717,7a,0 to 5
+Eastham,02642,7b,5 to 10
+Easthampton,01027,6a,-10 to -5
+East Longmeadow,01028,6b,-5 to 0
+Easton,02334,6b,-5 to 0
+East Orleans,02643,7b,5 to 10
+East Otis,01029,5b,-15 to -10
+East Sandwich,02537,7a,0 to 5
+East Taunton,02718,6b,-5 to 0
+East Templeton,01438,5b,-15 to -10
+East Walpole,02032,6b,-5 to 0
+East Wareham,02538,7a,0 to 5
+East Weymouth,02189,7a,0 to 5
+Edgartown,02539,7b,5 to 10
+Elmwood,02337,6b,-5 to 0
+Erving,01344,6a,-10 to -5
+Essex,01929,6b,-5 to 0
+Everett,02149,7a,0 to 5
+Fairhaven,02719,7a,0 to 5
+Fall River,02720,7a,0 to 5
+Falmouth,02540,7a,0 to 5
+Fayville,01745,6b,-5 to 0
+Feeding Hills,01030,6b,-5 to 0
+Fiskdale,01518,6a,-10 to -5
+Fitchburg,01420,6a,-10 to -5
+Florence,01062,6a,-10 to -5
+Forestdale,02644,7a,0 to 5
+Foxboro,02035,6b,-5 to 0
+Framingham,01701,6b,-5 to 0
+Franklin,02038,6b,-5 to 0
+Gardner,01440,5b,-15 to -10
+Georgetown,01833,6b,-5 to 0
+Gilbertville,01031,6a,-10 to -5
+Gill,01354,6a,-10 to -5
+Glendale,01229,5b,-15 to -10
+Gloucester,01930,7a,0 to 5
+Goshen,01032,6a,-10 to -5
+Grafton,01519,6b,-5 to 0
+Granby,01033,6a,-10 to -5
+Granville,01034,6a,-10 to -5
+Great Barrington,01230,6a,-10 to -5
+Greenbush,02040,7a,0 to 5
+Greenfield,01301,6a,-10 to -5
+Green Harbor,02041,7a,0 to 5
+Groton,01450,6a,-10 to -5
+Groveland,01834,6a,-10 to -5
+Hadley,01035,6a,-10 to -5
+Halifax,02338,6b,-5 to 0
+Hamilton,01936,6b,-5 to 0
+Hampden,01036,6a,-10 to -5
+Hanover,02339,6b,-5 to 0
+Hanscom Afb,01731,6b,-5 to 0
+Hanson,02341,6b,-5 to 0
+Hardwick,01037,6a,-10 to -5
+Harvard,01451,6a,-10 to -5
+Harwich,02645,7b,5 to 10
+Harwich Port,02646,7b,5 to 10
+Hatfield,01038,6a,-10 to -5
+Hathorne,01937,6b,-5 to 0
+Haverhill,01830,6a,-10 to -5
+Haydenville,01039,6a,-10 to -5
+Heath,01346,5b,-15 to -10
+Hingham,02043,7a,0 to 5
+Hinsdale,01235,5b,-15 to -10
+Holbrook,02343,6b,-5 to 0
+Holden,01520,6b,-5 to 0
+Holland,01521,6a,-10 to -5
+Holliston,01746,6b,-5 to 0
+Holyoke,01040,6a,-10 to -5
+Hopedale,01747,6b,-5 to 0
+Hopkinton,01748,6b,-5 to 0
+Housatonic,01236,5b,-15 to -10
+Hubbardston,01452,5b,-15 to -10
+Hudson,01749,6b,-5 to 0
+Hull,02045,7a,0 to 5
+Humarock,02047,7a,0 to 5
+Huntington,01050,6a,-10 to -5
+Hyannis,02601,7a,0 to 5
+Hyannis Port,02647,7a,0 to 5
+Hyde Park,02136,6b,-5 to 0
+Indian Orchard,01151,6a,-10 to -5
+Ipswich,01938,6b,-5 to 0
+Jamaica Plain,02130,6b,-5 to 0
+Jefferson,01522,6a,-10 to -5
+Kingston,02364,7a,0 to 5
+Lake Pleasant,01347,6a,-10 to -5
+Lakeville,02347,6b,-5 to 0
+Lancaster,01523,6b,-5 to 0
+Lanesborough,01237,5b,-15 to -10
+Lawrence,01840,6b,-5 to 0
+Lee,01238,5b,-15 to -10
+Leeds,01053,6a,-10 to -5
+Leicester,01524,6b,-5 to 0
+Lenox,01240,5b,-15 to -10
+Lenox Dale,01242,5b,-15 to -10
+Leominster,01453,6a,-10 to -5
+Leverett,01054,6a,-10 to -5
+Lexington,02420,6b,-5 to 0
+Lincoln,01773,6b,-5 to 0
+Linwood,01525,6b,-5 to 0
+Littleton,01460,6a,-10 to -5
+Longmeadow,01106,6b,-5 to 0
+Lowell,01850,6b,-5 to 0
+Ludlow,01056,6a,-10 to -5
+Lunenburg,01462,6a,-10 to -5
+Lynn,01901,7a,0 to 5
+Lynnfield,01940,6b,-5 to 0
+Malden,02148,6b,-5 to 0
+Manchaug,01526,6b,-5 to 0
+Manchester,01944,7a,0 to 5
+Manomet,02345,7a,0 to 5
+Mansfield,02048,6b,-5 to 0
+Marblehead,01945,7a,0 to 5
+Marion,02738,7a,0 to 5
+Marlborough,01752,6b,-5 to 0
+Marshfield,02050,7a,0 to 5
+Marshfield Hills,02051,7a,0 to 5
+Marstons Mills,02648,7a,0 to 5
+Mashpee,02649,7a,0 to 5
+Mattapan,02126,6b,-5 to 0
+Mattapoisett,02739,7a,0 to 5
+Maynard,01754,6b,-5 to 0
+Medfield,02052,6b,-5 to 0
+Medford,02153,6b,-5 to 0
+Medway,02053,6b,-5 to 0
+Melrose,02176,6b,-5 to 0
+Mendon,01756,6b,-5 to 0
+Menemsha,02552,7b,5 to 10
+Merrimac,01860,6a,-10 to -5
+Methuen,01844,6b,-5 to 0
+Middleboro,02344,6b,-5 to 0
+Middlefield,01243,6a,-10 to -5
+Middleton,01949,6b,-5 to 0
+Milford,01757,6b,-5 to 0
+Millbury,01527,6a,-10 to -5
+Millers Falls,01349,6a,-10 to -5
+Millis,02054,6b,-5 to 0
+Mill River,01244,5b,-15 to -10
+Millville,01529,6b,-5 to 0
+Milton,02186,6b,-5 to 0
+Milton Village,02187,6b,-5 to 0
+Minot,02055,7a,0 to 5
+Monponsett,02350,6b,-5 to 0
+Monroe Bridge,01350,5b,-15 to -10
+Monson,01057,6a,-10 to -5
+Montague,01351,6a,-10 to -5
+Monterey,01245,5b,-15 to -10
+Monument Beach,02553,7a,0 to 5
+Nahant,01908,7a,0 to 5
+Nantucket,02554,7b,5 to 10
+Natick,01760,6b,-5 to 0
+Needham,02492,6b,-5 to 0
+Needham Heights,02494,6b,-5 to 0
+New Bedford,02740,7a,0 to 5
+New Braintree,01531,6a,-10 to -5
+Newbury,01951,6b,-5 to 0
+Newburyport,01950,6b,-5 to 0
+New Salem,01355,5b,-15 to -10
+Newton,02458,6b,-5 to 0
+Newton Center,02459,6b,-5 to 0
+Newton Highlands,02461,6b,-5 to 0
+Newton Lower Falls,02462,6b,-5 to 0
+Newton Upper Falls,02464,6b,-5 to 0
+Newtonville,02460,6b,-5 to 0
+New Town,02456,6b,-5 to 0
+Nonantum,02495,6b,-5 to 0
+Norfolk,02056,6b,-5 to 0
+North Adams,01247,5b,-15 to -10
+North Amherst,01059,6a,-10 to -5
+Northampton,01060,6a,-10 to -5
+North Andover,01845,6b,-5 to 0
+North Attleboro,02760,6b,-5 to 0
+North Billerica,01862,6b,-5 to 0
+Northborough,01532,6b,-5 to 0
+Northbridge,01534,6b,-5 to 0
+North Brookfield,01535,6a,-10 to -5
+North Carver,02355,6b,-5 to 0
+North Chatham,02650,7b,5 to 10
+North Chelmsford,01863,6b,-5 to 0
+North Dartmouth,02747,7a,0 to 5
+North Dighton,02764,6b,-5 to 0
+North Eastham,02651,7b,5 to 10
+North Easton,02356,6b,-5 to 0
+North Egremont,01252,6a,-10 to -5
+North Falmouth,02556,7a,0 to 5
+Northfield,01360,5b,-15 to -10
+North Grafton,01536,6b,-5 to 0
+North Hatfield,01066,6a,-10 to -5
+North Marshfield,02059,7a,0 to 5
+North Oxford,01537,6a,-10 to -5
+North Pembroke,02358,6b,-5 to 0
+North Scituate,02060,7a,0 to 5
+North Truro,02652,7b,5 to 10
+North Uxbridge,01538,6b,-5 to 0
+North Weymouth,02191,7a,0 to 5
+Norton,02766,6b,-5 to 0
+Norwell,02061,7a,0 to 5
+Norwood,02062,6b,-5 to 0
+Nutting Lake,01865,6b,-5 to 0
+Oak Bluffs,02557,7a,0 to 5
+Oakham,01068,6a,-10 to -5
+Ocean Bluff,02065,7a,0 to 5
+Onset,02558,7a,0 to 5
+Orange,01364,5b,-15 to -10
+Orleans,02653,7b,5 to 10
+Osterville,02655,7a,0 to 5
+Otis,01253,5b,-15 to -10
+Oxford,01540,6b,-5 to 0
+Palmer,01069,6a,-10 to -5
+Paxton,01612,6a,-10 to -5
+Peabody,01960,6b,-5 to 0
+Pembroke,02359,6b,-5 to 0
+Pepperell,01463,6a,-10 to -5
+Petersham,01366,6a,-10 to -5
+Pinehurst,01866,6b,-5 to 0
+Pittsfield,01201,5b,-15 to -10
+Plainfield,01070,5b,-15 to -10
+Plainville,02762,6b,-5 to 0
+Plymouth,02360,7a,0 to 5
+Plympton,02367,6b,-5 to 0
+Pocasset,02559,7a,0 to 5
+Prides Crossing,01965,6b,-5 to 0
+Princeton,01541,6a,-10 to -5
+Provincetown,02657,7b,5 to 10
+Quincy,02169,6b,-5 to 0
+Randolph,02368,6b,-5 to 0
+Raynham,02767,6b,-5 to 0
+Raynham Center,02768,6b,-5 to 0
+Reading,01867,6b,-5 to 0
+Readville,02137,6b,-5 to 0
+Rehoboth,02769,7a,0 to 5
+Revere,02151,7a,0 to 5
+Richmond,01254,5b,-15 to -10
+Rochdale,01542,6b,-5 to 0
+Rochester,02770,7a,0 to 5
+Rockland,02370,6b,-5 to 0
+Rockport,01966,7a,0 to 5
+Roslindale,02131,6b,-5 to 0
+Rowe,01367,5b,-15 to -10
+Rowley,01969,6b,-5 to 0
+Roxbury,02119,7a,0 to 5
+Roxbury Crossing,02120,7a,0 to 5
+Royalston,01368,5b,-15 to -10
+Russell,01071,6a,-10 to -5
+Rutland,01543,6a,-10 to -5
+Sagamore,02561,7a,0 to 5
+Sagamore Beach,02562,7a,0 to 5
+Salem,01970,7a,0 to 5
+Salisbury,01952,6b,-5 to 0
+Sandisfield,01255,6a,-10 to -5
+Sandwich,02563,7a,0 to 5
+Saugus,01906,6b,-5 to 0
+Savoy,01256,5b,-15 to -10
+Scituate,02066,7a,0 to 5
+Seekonk,02771,7a,0 to 5
+Sharon,02067,6b,-5 to 0
+Sheffield,01257,6a,-10 to -5
+Shelburne Falls,01370,5b,-15 to -10
+Sheldonville,02070,6b,-5 to 0
+Sherborn,01770,6b,-5 to 0
+Shirley,01464,6a,-10 to -5
+Shrewsbury,01545,6a,-10 to -5
+Shutesbury,01072,5b,-15 to -10
+Siasconset,02564,7b,5 to 10
+Somerset,02725,7a,0 to 5
+Somerville,02143,7a,0 to 5
+Southampton,01073,6a,-10 to -5
+South Barre,01074,6a,-10 to -5
+Southborough,01772,6b,-5 to 0
+Southbridge,01550,6b,-5 to 0
+South Carver,02366,6b,-5 to 0
+South Chatham,02659,7b,5 to 10
+South Dartmouth,02748,7a,0 to 5
+South Deerfield,01373,6a,-10 to -5
+South Dennis,02660,7a,0 to 5
+South Easton,02375,6b,-5 to 0
+South Egremont,01258,6a,-10 to -5
+Southfield,01259,6a,-10 to -5
+South Grafton,01560,6b,-5 to 0
+South Hadley,01075,6a,-10 to -5
+South Hamilton,01982,6b,-5 to 0
+South Harwich,02661,7b,5 to 10
+South Lancaster,01561,6b,-5 to 0
+South Lee,01260,5b,-15 to -10
+South Orleans,02662,7b,5 to 10
+South Walpole,02071,6b,-5 to 0
+South Wellfleet,02663,7b,5 to 10
+South Weymouth,02190,6b,-5 to 0
+Southwick,01077,6b,-5 to 0
+South Yarmouth,02664,7a,0 to 5
+Spencer,01562,6a,-10 to -5
+Springfield,01101,6b,-5 to 0
+Sterling,01564,6a,-10 to -5
+Still River,01467,6a,-10 to -5
+Stockbridge,01262,5b,-15 to -10
+Stoneham,02180,6b,-5 to 0
+Stoughton,02072,6b,-5 to 0
+Stow,01775,6b,-5 to 0
+Sturbridge,01566,6a,-10 to -5
+Sudbury,01776,6b,-5 to 0
+Sunderland,01375,6a,-10 to -5
+Sutton,01590,6b,-5 to 0
+Swampscott,01907,7a,0 to 5
+Swansea,02777,7a,0 to 5
+Taunton,02780,6b,-5 to 0
+Templeton,01468,5b,-15 to -10
+Tewksbury,01876,6b,-5 to 0
+Thorndike,01079,6a,-10 to -5
+Three Rivers,01080,6a,-10 to -5
+Topsfield,01983,6b,-5 to 0
+Townsend,01469,6a,-10 to -5
+Truro,02666,7b,5 to 10
+Turners Falls,01376,6a,-10 to -5
+Tyngsboro,01879,6a,-10 to -5
+Tyringham,01264,5b,-15 to -10
+Upton,01568,6b,-5 to 0
+Uxbridge,01569,6b,-5 to 0
+Vineyard Haven,02568,7a,0 to 5
+Waban,02468,6b,-5 to 0
+Wakefield,01880,6b,-5 to 0
+Wales,01081,6b,-5 to 0
+Walpole,02081,6b,-5 to 0
+Waltham,02451,6b,-5 to 0
+Ware,01082,6a,-10 to -5
+Wareham,02571,7a,0 to 5
+Warren,01083,6a,-10 to -5
+Warwick,01378,5b,-15 to -10
+Watertown,02471,6b,-5 to 0
+Waverley,02479,6b,-5 to 0
+Wayland,01778,6b,-5 to 0
+Webster,01570,6b,-5 to 0
+Wellesley,02482,6b,-5 to 0
+Wellesley Hills,02481,6b,-5 to 0
+Wellfleet,02667,7b,5 to 10
+Wendell,01379,5b,-15 to -10
+Wendell Depot,01380,5b,-15 to -10
+Wenham,01984,6b,-5 to 0
+West Barnstable,02668,7a,0 to 5
+Westborough,01581,6b,-5 to 0
+West Boxford,01885,6b,-5 to 0
+West Boylston,01583,6a,-10 to -5
+West Bridgewater,02379,6b,-5 to 0
+West Brookfield,01585,6a,-10 to -5
+West Chatham,02669,7b,5 to 10
+West Chesterfield,01084,6a,-10 to -5
+West Dennis,02670,7b,5 to 10
+West Falmouth,02574,7a,0 to 5
+Westfield,01085,6a,-10 to -5
+Westford,01886,6a,-10 to -5
+West Groton,01472,6a,-10 to -5
+West Harwich,02671,7b,5 to 10
+West Hatfield,01088,6a,-10 to -5
+West Hyannisport,02672,7a,0 to 5
+West Medford,02156,6b,-5 to 0
+West Millbury,01586,6a,-10 to -5
+Westminster,01441,6a,-10 to -5
+West Newbury,01985,6b,-5 to 0
+West Newton,02465,6b,-5 to 0
+Weston,02493,6b,-5 to 0
+Westport,02790,7a,0 to 5
+Westport Point,02791,7a,0 to 5
+West Roxbury,02132,6b,-5 to 0
+West Springfield,01089,6a,-10 to -5
+West Stockbridge,01266,5b,-15 to -10
+West Tisbury,02575,7a,0 to 5
+West Townsend,01474,6a,-10 to -5
+West Wareham,02576,7a,0 to 5
+West Warren,01092,6a,-10 to -5
+Westwood,02090,6b,-5 to 0
+West Yarmouth,02673,7a,0 to 5
+Weymouth,02188,6b,-5 to 0
+Whately,01093,6a,-10 to -5
+Wheelwright,01094,6a,-10 to -5
+White Horse Beach,02381,7a,0 to 5
+Whitinsville,01588,6b,-5 to 0
+Whitman,02382,6b,-5 to 0
+Wilbraham,01095,6a,-10 to -5
+Williamsburg,01096,6a,-10 to -5
+Williamstown,01267,5b,-15 to -10
+Wilmington,01887,6b,-5 to 0
+Winchendon,01475,5b,-15 to -10
+Winchester,01890,6b,-5 to 0
+Windsor,01270,5b,-15 to -10
+Winthrop,02152,7a,0 to 5
+Woburn,01801,6b,-5 to 0
+Woods Hole,02543,7b,5 to 10
+Woodville,01784,6b,-5 to 0
+Worcester,01601,6a,-10 to -5
+Woronoco,01097,6a,-10 to -5
+Worthington,01098,6a,-10 to -5
+Wrentham,02093,6b,-5 to 0
+Yarmouth Port,02675,7a,0 to 5

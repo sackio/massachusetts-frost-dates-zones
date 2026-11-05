@@ -1,0 +1,51 @@
+station,last_spring_frost_50pct,last_spring_frost_10pct_later,first_fall_frost_50pct,frost_free_days,elevation_m,years_of_data,noaa_station_id
+Boston Logan Intl Ap,Apr 4,Apr 17,Nov 9,218,3.7,28,USW00014739
+Chatham,Apr 5,Apr 18,Nov 15,223,12.2,30,USC00191386
+Lawrence,Apr 13,Apr 29,Oct 28,197,15.2,27,USC00194105
+Nantucket Mem Ap,Apr 13,Apr 27,Nov 8,208,13.7,23,USW00014756
+Chatham Muni Ap,Apr 13,Apr 26,Nov 4,204,20.7,21,USW00094624
+Plymouth-Kingston,Apr 15,Apr 28,Nov 1,199,13.7,17,USC00196486
+Hyannis,Apr 16,Apr 30,Oct 30,196,18.3,28,USC00193821
+Edgartown,Apr 17,May 3,Nov 3,199,9.1,30,USC00192501
+Blue Hill Coop,Apr 18,Apr 30,Oct 26,190,190.5,30,USC00190736
+Jamaica Plain,Apr 19,May 3,Oct 23,186,29.0,25,USC00193890
+Blue Hill,Apr 19,May 1,Oct 24,187,190.5,23,USW00014753
+E Wareham,Apr 21,May 3,Oct 24,185,9.1,22,USC00192451
+Lawrence Muni Ap,Apr 21,May 1,Oct 21,182,45.4,19,USW00094723
+Brockton,Apr 22,May 5,Oct 19,179,22.9,24,USC00190860
+Taunton,Apr 22,May 6,Oct 19,179,6.1,17,USC00198367
+Hyannis Barnstable Muni Ap,Apr 22,May 5,Oct 28,188,16.8,23,USW00094720
+Rochester,Apr 23,May 7,Oct 21,180,19.8,29,USC00196938
+Worcester Rgnl Ap,Apr 23,May 5,Oct 21,180,304.8,28,USW00094746
+Beverly Muni Ap,Apr 24,May 6,Oct 17,175,32.9,22,USW00054733
+Hingham,Apr 25,May 8,Oct 22,179,10.7,30,USC00193624
+Marblehead,Apr 25,May 13,Oct 20,177,25.6,26,USC00194502
+Reading,Apr 25,May 8,Oct 17,174,33.5,27,USC00196783
+Tully Lake,Apr 25,May 8,Oct 17,174,207.3,20,USC00198573
+Norwood Mem Ap,Apr 25,May 11,Oct 9,166,15.2,21,USW00054704
+Bedford,Apr 27,May 11,Oct 13,168,48.8,18,USC00190535
+Norton W,Apr 27,May 10,Oct 15,170,29.0,25,USC00195984
+Walpole 2,Apr 27,May 11,Oct 14,169,51.8,30,USC00198757
+E Brimfield Lake,Apr 28,May 17,Oct 15,169,213.4,26,USC00192107
+Bedford Hanscom Fld,Apr 28,May 12,Oct 10,164,40.5,20,USW00014702
+Fitchburg Muni Ap,Apr 29,May 13,Oct 11,164,106.1,22,USW00004780
+New Bedford Muni Ap,Apr 29,May 15,Oct 15,168,24.4,22,USW00094726
+Lowell,Apr 30,May 10,Oct 10,162,33.5,28,USC00194313
+Plymouth Muni Ap,Apr 30,May 12,Oct 16,168,45.4,20,USW00054769
+Buffumville Lake,May 1,May 13,Oct 10,161,158.5,25,USC00190998
+Haverhill,May 1,May 14,Oct 12,163,6.1,28,USC00193505
+Maynard 2,May 2,May 16,Oct 6,156,62.5,19,USC00194580
+Taunton Muni Ap,May 2,May 16,Oct 8,158,13.1,19,USW00054777
+Groveland,May 3,May 17,Oct 8,157,9.1,26,USC00193276
+Middleton,May 3,May 20,Oct 9,158,33.5,30,USC00194744
+Westfield Barnes Muni Ap,May 3,May 17,Oct 8,157,82.6,22,USW00014775
+Beverly,May 4,May 17,Oct 12,160,19.8,18,USC00190593
+Orange Muni Ap,May 4,May 17,Oct 8,156,169.2,23,USW00054756
+Amherst,May 5,May 19,Oct 8,155,44.2,29,USC00190120
+Pittsfield Muni Ap,May 5,May 21,Oct 5,152,363.9,22,USW00014763
+Birch Hill Dam,May 6,May 19,Oct 1,147,260.6,24,USC00190666
+Lenox Dale,May 7,May 21,Oct 3,148,306.0,23,USC00194131
+Vineyard Haven Ap,May 7,May 27,Oct 9,154,20.7,22,USW00094724
+North Adams Harriman Ap,May 10,May 25,Oct 4,146,199.3,23,USW00054768
+Barre Falls Dam,May 12,May 28,Oct 1,141,251.5,19,USC00190408
+Worthington,May 13,May 26,Oct 2,141,391.7,26,USC00199972
