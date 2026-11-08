@@ -1,5 +1,10 @@
 # Massachusetts frost dates and hardiness zones
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24055731.svg)](https://doi.org/10.5281/zenodo.24055731)
+
+Cite as: Katama Creek Farm (2026). *Massachusetts frost dates, first hard freeze dates and plant hardiness zones*. Zenodo. https://doi.org/10.5281/zenodo.24055731
+
 Two free tables for Massachusetts gardeners, compiled by [Katama Creek](https://katamacreek.com/), a small farm in Groton, Massachusetts.
 
 | file | rows | what it holds |
